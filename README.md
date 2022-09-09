@@ -1,51 +1,51 @@
 # NOTY 
 
 
-Bütün üniversitelerden öğrencilerin notlarını “noty“ formatında satabileceği bir platform.
+A platform where students from all universities can sell their notes in "noty" format.
 
-Notları çevresinde rağbet gören ve bunu fırsata çevirip para kazanmak isteyen kullanıcıları ve sınavlara hazırlanırken internet üzerinde yeterli kaynak bulamayıp benzer dersin notunu çıkarmış kullanıcıların notunu satın almak isteyen kullanıcıların ortak noktada birleştiren site.
+A site that unites the users whose notes are popular around them and want to make money by turning it into an opportunity, and the users who want to buy the notes of the users who could not find enough resources on the internet while studying for the exams and took the notes of the similar course.
 
-## Platformlar
+## Platforms
 
-*Web sitesi (noty.dev)
+*Web site (noty.dev)
 
 *App store
 
 *Google Play Store
 
-*Diğer Android Tabanlı Pazarlar
+*Other android based stores
 
-### Nedir Bu Noty Formatı?
+### What Is This Noty Format?
 
-Tıpkı bir PDF!
+Just like a PDF!
 
-Ama hem sizin kazancınızı korumaya çalışan hem de satın aldığınız notların güvenilirliğini sağlamak için oluşturduğumuz format.
+But the format we created to both protect your earnings and ensure the reliability of the notes you buy.
 
-Hem de görüntüsü çok tatlı :grinning:
+It also looks so cute :grinning:
 
-### İstediğim notu nasıl bulabilirim?
+### How can I find the note I want?
 
-Arama butonunu isterseniz dersin adını, isterseniz okuduğunuz bölümü aratarak sizin için uygun tüm notları görüntüleyebilirsiniz.
+In the search button, you can search for the name of the note or the departure you are studying to view all the appropriate notes for you.
 ```
-elektronik mühendisliği  modern physics 
+elektrical engineering  modern physics 
 ```
 
-## Satın aldığım notun güvenilirliğinden nasıl emin olabilirim?
+## How can I be sure of the reliability of the note I bought?
 
-Kullanıcılarımız notlarını paylaştıktan sonra ekibimiz tarafından incelenmeye alınır. İncelemeden onay aldıktan sonra satın alınabilir şekilde sizlere sunulur. Fakat yine de şüpheli bir bilgi tespit edildiğinde rapor göndererek tekrar incelemeye aldırabilir veya düşük puan verebilirsiniz. Yüksek puanlı notlar anasayfada daha yukarıda yer alır güvenilirliği fazladır.
+After our users share their notes, they are reviewed by our team. After approval from the review, it is presented to you in a form that can be purchased. However, when suspicious information is detected, you can send a report to get it reviewed again or give a low score. High-score grades are higher up on the homepage, and their reliability is high.
 
-## Peki nasıl notlarımdan para kazanabilirim?
+## So how can I monetize my notes?
 
-Eğer herkesin notunu istediği o kişi sizseniz:
+1) If you're that person everyone wants their notes on:
 
-Hazırladığınız konu özetlerini, yazınızın diğer kullanıcılar tarafından okunabilir olduğundan eminseniz ve yazdığınız bilgilerin doğruluğunu kontrol ettikten sonra kamera yardımıyla veya uygulama içerisinden pdf to noty yardımı ile noty formatına dönüştürebilirsiniz.
+If you are sure that your notes or articles is readable by other users and after checking the accuracy of the information you have written, you can convert the subject summaries you have prepared into noty format with the help of the camera or with the help of pdf to noty button from within the application.
 
- Sıra geldi bir ön izleme oluşturmada:
+2) Now it's time to create a preview:
 
-Notunuzun içeriğinin diğer kullanıcılara bilgi vermesi açısından bir kaç sayfanızı herkesin görebileceği şekilde ön izleme hazırlamanız sizin yararınıza olacaktır. Bu ön izlemenin içerisinde özetini çıkarttığınız konu başlıklarını, çizdiğiniz grafikleri ve kullandığınız formüller gibi notunuzu en güzel özetleyen sayfaları kullanın. Eğer bir ön izleme sayfaları seçmezseniz diğer kullanıcılar tarafından notunuzun güvenilirliği azalacaktır. Eğer ön izleme sayfalarını çok fazla tutarsanız bu sefer notunuzu satın alacak kullanıcılar azalacaktır.
+In order to inform other users of the content of your note, it will be in your best interest to preview a few of your pages so that everyone can see them. Use the pages that best summarize your note, such as the topics you've summarized in this preview, the graphics you've drawn, and the formulas you've used. If you do not choose a preview pages, your grade will be less reliable for other users. If you keep the preview pages too much, this time the users who will buy your note will decrease.
 
-Ve son olarak ücreti belirleme:
+3) And finally, setting the fee:
 
-Her şeyi hazırladıktan sonra noty’nizin ücretini onu hazırlarken verdiğiniz emekle orantılı olarak 5tl, 10tl, 15tL, 20tl olacak şekilde seçip incelemeye gönderebilirsiniz.
+After you have prepared everything, you can select the price of your noty as 5tl, 10tl, 15tl, 20tl in proportion to the effort you put into preparing it, and send it for examination.
 
-Herşey tamam, artık gün geçtikçe hesabınızı kontrol edebilirsiniz !
+Everything is ok, now you can check your account day by day!
