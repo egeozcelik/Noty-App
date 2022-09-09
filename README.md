@@ -1,39 +1,41 @@
-# Noty-App
-Noty Nedir?
-Bütün üniversitelerden öğrencilerin notlarını “noty“ formatında satabileceği bir platform. 
+# NOTY 
+
+
+Bütün üniversitelerden öğrencilerin notlarını “noty“ formatında satabileceği bir platform.
+
 Notları çevresinde rağbet gören ve bunu fırsata çevirip para kazanmak isteyen kullanıcıları ve sınavlara hazırlanırken internet üzerinde yeterli kaynak bulamayıp benzer dersin notunu çıkarmış kullanıcıların notunu satın almak isteyen kullanıcıların ortak noktada birleştiren site.
 
- Platformlar
-Web sitesi (noty.dev)
+## Platformlar
 
-App store
+*Web sitesi (noty.dev)
 
-Google Play Store
+*App store
 
-Diğer Android Tabanlı Pazarlar
+*Google Play Store
 
- 
+*Diğer Android Tabanlı Pazarlar
 
-Nedir Bu Noty Formatı?
+### Nedir Bu Noty Formatı?
+
 Tıpkı bir PDF!
 
 Ama hem sizin kazancınızı korumaya çalışan hem de satın aldığınız notların güvenilirliğini sağlamak için oluşturduğumuz format.
 
 Hem de görüntüsü çok tatlı :grinning:
 
- 
+### İstediğim notu nasıl bulabilirim?
 
-İstediğim notu nasıl bulabilirim?
 Arama butonunu isterseniz dersin adını, isterseniz okuduğunuz bölümü aratarak sizin için uygun tüm notları görüntüleyebilirsiniz.
+```
+elektronik mühendisliği  modern physics 
+```
 
- 
+## Satın aldığım notun güvenilirliğinden nasıl emin olabilirim?
 
-Satın aldığım notun güvenilirliğinden nasıl emin olabilirim?
 Kullanıcılarımız notlarını paylaştıktan sonra ekibimiz tarafından incelenmeye alınır. İncelemeden onay aldıktan sonra satın alınabilir şekilde sizlere sunulur. Fakat yine de şüpheli bir bilgi tespit edildiğinde rapor göndererek tekrar incelemeye aldırabilir veya düşük puan verebilirsiniz. Yüksek puanlı notlar anasayfada daha yukarıda yer alır güvenilirliği fazladır.
 
- 
+## Peki nasıl notlarımdan para kazanabilirim?
 
-Peki nasıl notlarımdan para kazanabilirim?
 Eğer herkesin notunu istediği o kişi sizseniz:
 
 Hazırladığınız konu özetlerini, yazınızın diğer kullanıcılar tarafından okunabilir olduğundan eminseniz ve yazdığınız bilgilerin doğruluğunu kontrol ettikten sonra kamera yardımıyla veya uygulama içerisinden pdf to noty yardımı ile noty formatına dönüştürebilirsiniz.
