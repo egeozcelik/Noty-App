@@ -27,7 +27,7 @@ It also looks so cute :grinning:
 
 In the search button, you can search for the name of the note or the departure you are studying to view all the appropriate notes for you.
 ```
-elekcrical engineering  modern physics 
+electrical engineering  modern physics 
 ```
 
 ## How can I be sure of the reliability of the note I bought?
